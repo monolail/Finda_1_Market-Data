@@ -1,0 +1,317 @@
+[
+  {
+    "sessionId": "59c8dd9c-712a-4bd7-b14b-35ba61f90744",
+    "messageId": 0,
+    "type": "user",
+    "message": "와이파이 없이 사용가능?",
+    "timestamp": "2025-10-05T07:03:23.794Z"
+  },
+  {
+    "sessionId": "59c8dd9c-712a-4bd7-b14b-35ba61f90744",
+    "messageId": 1,
+    "type": "user",
+    "message": "quit()",
+    "timestamp": "2025-10-05T07:06:31.637Z"
+  },
+  {
+    "sessionId": "59c8dd9c-712a-4bd7-b14b-35ba61f90744",
+    "messageId": 2,
+    "type": "user",
+    "message": "어떻게 종료해?",
+    "timestamp": "2025-10-05T07:06:44.276Z"
+  },
+  {
+    "sessionId": "59c8dd9c-712a-4bd7-b14b-35ba61f90744",
+    "messageId": 3,
+    "type": "user",
+    "message": "/exit",
+    "timestamp": "2025-10-05T07:06:57.016Z"
+  },
+  {
+    "sessionId": "6017ebb4-c97e-41fd-bf66-694dff63593d",
+    "messageId": 0,
+    "type": "user",
+    "message": "/quit",
+    "timestamp": "2025-10-05T07:10:33.561Z"
+  },
+  {
+    "sessionId": "8d6e1513-e817-4274-9f8a-4b0a477db0bf",
+    "messageId": 0,
+    "type": "user",
+    "message": "/quit",
+    "timestamp": "2025-11-16T08:06:28.058Z"
+  },
+  {
+    "sessionId": "63581762-475a-4ec6-8d18-876eadc6fc69",
+    "messageId": 0,
+    "type": "user",
+    "message": "hard margin에서 결정경계 선에 샘플이 위치해도 괜찮아?",
+    "timestamp": "2025-12-03T09:03:51.461Z"
+  },
+  {
+    "sessionId": "73364334-5727-4e48-9ca7-ef42d5969842",
+    "messageId": 0,
+    "type": "user",
+    "message": "K리그 경기 내 주어진 플레이 시퀀스의 마지막 패스 도착 좌표(X,Y)를 예측하는 AI 모델을 개발해야합니다.\n\n제공되는 좌표 값은 모든 경기장의 실제 크기 차이를 보정하고 일관된 분석을 제공하기 위해, 피파 공식 권장 경기장 규격인 105 x 68 크기의 그리드에 매핑한 상대 좌표 값입니다. 이게 대회 데이터에 대한 설명인데 내가 이것을 통해 어떤 것을 개발하는게 좋을까?",
+    "timestamp": "2025-12-23T06:14:26.588Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 0,
+    "type": "user",
+    "message": "C:\\Users\\이호준\\OneDrive\\바탕 화면\\BDA 11기\\ML여기로 들어가봐",
+    "timestamp": "2026-02-27T05:47:39.209Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 1,
+    "type": "user",
+    "message": "ML폴더 보여?",
+    "timestamp": "2026-02-27T05:49:17.789Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 2,
+    "type": "user",
+    "message": "cd C:\\Users\\이호준\\OneDrive\\바탕 화면\\BDA 11기\\ML",
+    "timestamp": "2026-02-27T05:50:42.266Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 3,
+    "type": "user",
+    "message": "이제 BDA 데이콘 보이지? 그 폴더에 들어가봐",
+    "timestamp": "2026-02-27T05:52:53.142Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 4,
+    "type": "user",
+    "message": "그 파일을 깃허브에 업로드하고 싶은데 도와줄래?",
+    "timestamp": "2026-02-27T05:54:12.941Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 5,
+    "type": "user",
+    "message": "monolail인데 들어갈 수 있겠어?",
+    "timestamp": "2026-02-27T06:01:41.156Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 6,
+    "type": "user",
+    "message": "Dacon이라고 새로 만들었는데 보이니?",
+    "timestamp": "2026-02-27T06:04:04.970Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 7,
+    "type": "user",
+    "message": "master had recent pushes 3 minutes ago 이렇게 나왔는데 어떻게해?",
+    "timestamp": "2026-02-27T06:07:50.882Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 8,
+    "type": "user",
+    "message": "한국어로 답변가능함?",
+    "timestamp": "2026-02-27T06:09:58.875Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 9,
+    "type": "user",
+    "message": "master had recent pushes 3 minutes ago 이렇게 나왔거든? 그리고 옆에 compare & pull request인데 여기서 내 깃허브에 어떻게 업로드해야할까?",
+    "timestamp": "2026-02-27T06:10:52.634Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 10,
+    "type": "user",
+    "message": "master랑 main이랑 무슨차이ㅑㅇ? 난 다른 사람이 내 깃허브를 보았으면 하는데",
+    "timestamp": "2026-02-27T06:13:05.756Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 11,
+    "type": "user",
+    "message": "그래? 사실 난 이 데이콘 래포지토리에 다른 대회것도 저장할거라서, 지금 올렸던 파일을 'BDA_수료 예측'이라는 폴더를 만들어서 전부 다 넣어줄 수 있어?",
+    "timestamp": "2026-02-27T06:14:58.434Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 12,
+    "type": "user",
+    "message": "그 master를 default하고 싶은데",
+    "timestamp": "2026-02-27T06:21:28.493Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 13,
+    "type": "user",
+    "message": "README에 그 main README랑 똑같이 만들어볼래?",
+    "timestamp": "2026-02-27T06:23:53.025Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 14,
+    "type": "user",
+    "message": "깃허브 monolail의 Dacon 레포지터리의 main branch에 있는 내용 그대로 master의 Readme에 넣어주라",
+    "timestamp": "2026-02-27T06:26:21.551Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 15,
+    "type": "user",
+    "message": "혹시 이제 이 master branch의 readme에 표를 추가해줄 수 있어? 날짜 :  2026.01.12 ~ 2026.02.23 09:59 , 대회 이름 : 데이콘 x BDA 제 2회 학습자 수료 예측 AI 경진대회 ,  등수 : 100/733 이렇게",
+    "timestamp": "2026-02-27T06:39:06.690Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 16,
+    "type": "user",
+    "message": "혹시 monolail의 Readme도 보이니?",
+    "timestamp": "2026-02-27T06:42:22.307Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 17,
+    "type": "user",
+    "message": "깃허브 프로필 readme",
+    "timestamp": "2026-02-27T06:45:12.928Z"
+  },
+  {
+    "sessionId": "67b467d1-a22b-43f3-bf35-cc5937353e22",
+    "messageId": 18,
+    "type": "user",
+    "message": "https://github.com/monolail 여기의 readme야",
+    "timestamp": "2026-02-27T06:51:12.741Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 0,
+    "type": "user",
+    "message": "https://github.com/monolail/BDA_11이거 보여?",
+    "timestamp": "2026-03-01T04:22:46.698Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 1,
+    "type": "user",
+    "message": "C:\\Users\\이호준\\OneDrive\\바탕 화면\\BDA 11기 여기의 파일들을 읽어볼래?",
+    "timestamp": "2026-03-01T04:24:40.853Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 2,
+    "type": "user",
+    "message": "폴더에서 ML의 폴더에 있던 파일들을 아까 보여준 https://github.com/monolail/BDA_11이라는 깃허브에 올려줄래? main branch에 ML의 폴더에 넣어주라",
+    "timestamp": "2026-03-01T04:26:04.414Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 3,
+    "type": "user",
+    "message": "과제 폴더만",
+    "timestamp": "2026-03-01T04:29:04.397Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 4,
+    "type": "user",
+    "message": "그 이후의 12~16주차들을 추가해줘",
+    "timestamp": "2026-03-01T04:30:41.280Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 5,
+    "type": "user",
+    "message": "혹시 https://github.com/monolail/BDA_11/tree/main/ML 여기서 폴더들 줄 1주차 부터 11주차 까지 과제00주차 이렇게 해줄 수 있어?",
+    "timestamp": "2026-03-01T04:39:41.210Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 6,
+    "type": "user",
+    "message": "그럼 혹시 main의 readme도 읽을 수 있겠어?",
+    "timestamp": "2026-03-01T04:42:40.548Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 7,
+    "type": "user",
+    "message": "ㅇㅇ 맞아 너말대로 그렇게 해주라",
+    "timestamp": "2026-03-01T04:44:45.518Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 8,
+    "type": "user",
+    "message": "그럼 이제 SQL을 건드려보자 똑같이 하면 될거 같아",
+    "timestamp": "2026-03-01T04:49:19.678Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 9,
+    "type": "user",
+    "message": "폴더는 그렇게 해주고, C:\\Users\\이호준\\OneDrive\\바탕 화면\\BDA 11기\\SQL 에서의 pdf 및 다른 파일들은 깃허브 SQL폴더에 기타 자료라고 폴더를 만들어서 거기 안에다 다 넣어주라",
+    "timestamp": "2026-03-01T04:50:51.957Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 10,
+    "type": "user",
+    "message": "12~16주차 : SQL 심화 문법 및 복습에서 번호를 매겨줘",
+    "timestamp": "2026-03-01T04:54:34.815Z"
+  },
+  {
+    "sessionId": "1c8519fe-489a-411e-9db9-44b702ba48dc",
+    "messageId": 11,
+    "type": "user",
+    "message": "그 혹시 ㄱ러면 BDA_11_Repo은 바탕화면에서 삭제해도 됨?",
+    "timestamp": "2026-03-01T04:58:32.975Z"
+  },
+  {
+    "sessionId": "8d3072d3-a3a3-4beb-94f8-e5fb7b1d9642",
+    "messageId": 0,
+    "type": "user",
+    "message": "https://github.com/monolail?tab=repositories 여기에 새로운 Repository를 만들고 싶어 이름은 'Finda 1기 - 시장데이터를 통한 상장폐지 예측'이 이름으로",
+    "timestamp": "2026-03-02T07:50:25.482Z"
+  },
+  {
+    "sessionId": "8d3072d3-a3a3-4beb-94f8-e5fb7b1d9642",
+    "messageId": 1,
+    "type": "user",
+    "message": "https://github.com/monolail/Finda-1---?tab=readme-ov-file 내가 직접 만들었어 읽을 수 있겠어?",
+    "timestamp": "2026-03-02T08:05:29.121Z"
+  },
+  {
+    "sessionId": "8d3072d3-a3a3-4beb-94f8-e5fb7b1d9642",
+    "messageId": 2,
+    "type": "user",
+    "message": "C:\\Users\\이호준\\OneDrive\\바탕 화면\\Finda 1기 여기 있는 폴더 파일들만 읽을 수 있겠어?",
+    "timestamp": "2026-03-02T08:12:30.225Z"
+  },
+  {
+    "sessionId": "8d3072d3-a3a3-4beb-94f8-e5fb7b1d9642",
+    "messageId": 3,
+    "type": "user",
+    "message": "그 중 Finda_1주차에 들어가볼래?",
+    "timestamp": "2026-03-02T08:13:00.339Z"
+  },
+  {
+    "sessionId": "8d3072d3-a3a3-4beb-94f8-e5fb7b1d9642",
+    "messageId": 4,
+    "type": "user",
+    "message": "ㅇㅇ 이제 다시봐봐 MP4파일은 없을거야",
+    "timestamp": "2026-03-02T08:13:38.115Z"
+  },
+  {
+    "sessionId": "8d3072d3-a3a3-4beb-94f8-e5fb7b1d9642",
+    "messageId": 5,
+    "type": "user",
+    "message": "ㅇㅇ 이제 내가 만든 깃허브 레포지터리에 Finda_1주차 폴더를 만든 후 똑같이 업로드해줘",
+    "timestamp": "2026-03-02T08:16:33.595Z"
+  }
+]
