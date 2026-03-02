@@ -313,5 +313,12 @@
     "type": "user",
     "message": "ㅇㅇ 이제 내가 만든 깃허브 레포지터리에 Finda_1주차 폴더를 만든 후 똑같이 업로드해줘",
     "timestamp": "2026-03-02T08:16:33.595Z"
+  },
+  {
+    "sessionId": "8d3072d3-a3a3-4beb-94f8-e5fb7b1d9642",
+    "messageId": 6,
+    "type": "user",
+    "message": "GitHub에 있는 LICENSE와 README 유지하고 싶은데",
+    "timestamp": "2026-03-02T08:31:11.559Z"
   }
 ]
