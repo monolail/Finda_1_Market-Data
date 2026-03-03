@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+475430,키스트론,2025Q2,10670,10800,5940,5990,79727290,,,,0,,,,,,,0,,,,0.8113522537562604,,0,,
+475430,키스트론,2025Q3,6200,7130,4600,4875,10434782,-0.1861435726210351,-0.20597130767754734,,1,,,,,,,0,,,,0.518974358974359,,1,,
+475430,키스트론,2025Q4,4880,5490,4300,4835,5111681,-0.008205128205128198,-0.008238975544553995,,0,,,,,,,0,,,,0.24612202688728024,,2,,

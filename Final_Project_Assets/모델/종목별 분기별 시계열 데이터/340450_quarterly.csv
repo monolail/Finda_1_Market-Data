@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+340450,지씨지놈,2025Q2,14300,15180,9020,9050,75913281,,,,0,,,,,,,0,,,,0.6806629834254143,,0,,
+340450,지씨지놈,2025Q3,9050,9680,7250,7560,9876983,-0.16464088397790055,-0.1798935675203932,,1,,,,,,,0,,,,0.32142857142857145,,1,,
+340450,지씨지놈,2025Q4,7460,8250,6200,6820,8762578,-0.0978835978835979,-0.10301171833607015,,0,,,,,,,0,,,,0.30058651026392963,,2,,

@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+125020,티씨머티리얼즈,2025Q2,6210,7850,5060,5840,162324275,,,,0,,,,,,,0,,,,0.4777397260273973,,0,,
+125020,티씨머티리얼즈,2025Q3,6350,6580,4155,4250,21736977,-0.2722602739726028,-0.3178118139038091,,1,,,,,,,0,,,,0.5705882352941176,,1,,
+125020,티씨머티리얼즈,2025Q4,4250,4950,2990,4060,40995545,-0.04470588235294115,-0.04573600932268462,,0,,,,,,,0,,,,0.4827586206896552,,2,,

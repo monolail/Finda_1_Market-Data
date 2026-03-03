@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+476040,오가노이드사이언스,2025Q2,25400,52000,23000,37450,111195339,,,,0,,,,,,,0,,,,0.774365821094793,,0,,
+476040,오가노이드사이언스,2025Q3,36700,41450,28850,37900,22120961,0.012016021361815676,0.011944402125152465,,0,,,,,,,0,,,,0.3324538258575198,,0,,
+476040,오가노이드사이언스,2025Q4,38350,48500,29700,38300,28093153,0.01055408970976246,0.01049878409821936,,0,,,,,,,0,,,,0.4908616187989556,,0,,

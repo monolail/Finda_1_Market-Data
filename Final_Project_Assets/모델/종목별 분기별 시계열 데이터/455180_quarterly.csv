@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+455180,케이지에이,2025Q2,6980,7820,4980,5160,43516429,,,,0,,,,,,,0,,,,0.5503875968992248,,0,,
+455180,케이지에이,2025Q3,5100,6900,4950,4950,59323116,-0.04069767441860461,-0.041549002912873334,,0,,,,,,,0,,,,0.3939393939393939,,1,,
+455180,케이지에이,2025Q4,4950,6340,3150,3180,31614012,-0.35757575757575755,-0.44250637978851337,,1,,,,,,,0,,,,1.0031446540880504,,2,,

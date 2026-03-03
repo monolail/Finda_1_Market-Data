@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+481070,에이유브랜즈,2025Q2,28000,29150,11910,21750,37433570,,,,0,,,,,,,0,,,,0.7926436781609195,,0,,
+481070,에이유브랜즈,2025Q3,22400,26600,17060,21400,4230441,-0.016091954022988464,-0.016222835506887634,,0,,,,,,,0,,,,0.4457943925233645,,1,,
+481070,에이유브랜즈,2025Q4,21550,23500,13370,22300,2941215,0.0420560747663552,0.04119575643826856,,0,,,,,,,0,,,,0.45426008968609866,,0,,

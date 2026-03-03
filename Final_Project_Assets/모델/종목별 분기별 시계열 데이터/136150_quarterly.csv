@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+136150,원일티엔아이,2025Q2,23600,41800,23600,29650,54769429,,,,0,,,,,,,0,,,,0.6138279932546374,,0,,
+136150,원일티엔아이,2025Q3,29050,29200,18900,22050,7619200,-0.25632377740303536,-0.29614952355088064,,1,,,,,,,0,,,,0.4671201814058957,,1,,
+136150,원일티엔아이,2025Q4,22050,29150,18170,18390,13678445,-0.16598639455782316,-0.18150556327662493,,1,,,,,,,0,,,,0.5970636215334421,,2,,

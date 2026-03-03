@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+489460,바이오비쥬,2025Q2,23000,26500,16050,19550,102079587,,,,0,,,,,,,0,,,,0.5345268542199488,,0,,
+489460,바이오비쥬,2025Q3,20100,24100,14500,16970,17743661,-0.13196930946291563,-0.14152820718523884,,1,,,,,,,0,,,,0.5657041838538598,,1,,
+489460,바이오비쥬,2025Q4,17520,17780,11390,13480,7477890,-0.2056570418385386,-0.23023997376197514,,1,,,,,,,0,,,,0.47403560830860536,,2,,

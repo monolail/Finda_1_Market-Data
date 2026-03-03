@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+459510,나우로보틱스,2025Q2,17000,33500,14100,20300,158487393,,,,0,,,,,,,0,,,,0.9556650246305419,,0,,
+459510,나우로보틱스,2025Q3,20450,27800,12850,22250,42572431,0.09605911330049266,0.0917211225645076,,0,,,,,,,0,,,,0.6719101123595506,,0,,
+459510,나우로보틱스,2025Q4,22550,27350,18000,21250,44114147,-0.0449438202247191,-0.04598511324182297,,0,,,,,,,0,,,,0.44,,1,,

@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+496070,신한제16호스팩,2025Q2,2695,3750,2005,2025,100874812,,,,0,,,,,,,0,,,,0.8617283950617284,,0,,
+496070,신한제16호스팩,2025Q3,2025,2025,1998,2010,1212395,-0.007407407407407418,-0.007434978487517618,,0,,,,,,,0,,,,0.013432835820895522,,1,,
+496070,신한제16호스팩,2025Q4,2005,2070,1995,2015,1002142,0.0024875621890547706,0.0024844733276614406,,0,,,,,,,0,,,,0.03722084367245657,,0,,

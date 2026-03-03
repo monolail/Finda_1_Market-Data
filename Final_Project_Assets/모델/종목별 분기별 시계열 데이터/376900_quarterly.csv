@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+376900,로킷헬스케어,2025Q2,16860,23700,13740,16010,222522244,,,,0,,,,,,,0,,,,0.6221111805121798,,0,,
+376900,로킷헬스케어,2025Q3,16700,27950,14120,26050,71991384,0.627108057464085,0.48680424119075205,,0,,,,,,,0,,,,0.5309021113243761,,0,,
+376900,로킷헬스케어,2025Q4,26250,87000,25000,65500,104748183,1.5143953934740884,0.9220323744418302,,0,,,,,,,0,,,,0.9465648854961832,,0,,

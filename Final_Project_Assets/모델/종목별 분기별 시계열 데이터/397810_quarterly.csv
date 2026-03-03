@@ -1,0 +1,3 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+397810,애드포러스,2025Q3,16960,17800,10270,10450,32078831,,,,0,,,,,,,0,,,,0.7205741626794259,,0,,
+397810,애드포러스,2025Q4,10510,10600,7100,7900,3002641,-0.2440191387559809,-0.2797392189378449,,1,,,,,,,0,,,,0.4430379746835443,,1,,

@@ -1,0 +1,4 @@
+﻿stock_code,Name,quarter,Open,High,Low,Close,Volume_sum,ret_1q,logret_1q,cumret_4q,down_gap_q,vol_4q,vol_8q,max_drawdown_4q,ma4,ma8,ma4_ratio,ma_cross_4_8,mom_4q,vol_z_4q,vol_drop_ratio_4q,intraquarter_range,crash_count_4q,down_streak_1q,down_streak_4q_max,vol_mean_decline_q
+287840,인투셀,2025Q2,37100,52400,30800,37700,44139840,,,,0,,,,,,,0,,,,0.5729442970822282,,0,,
+287840,인투셀,2025Q3,37750,42350,21400,37600,26706092,-0.0026525198938992522,-0.0026560440581171463,,0,,,,,,,0,,,,0.5571808510638298,,1,,
+287840,인투셀,2025Q4,38000,74900,37000,57400,41181890,0.5265957446808511,0.4230402529296722,,0,,,,,,,0,,,,0.6602787456445993,,0,,
