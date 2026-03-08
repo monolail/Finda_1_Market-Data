@@ -61,20 +61,46 @@
 > **팀원: 김민규, 김요은, 박찬규, 이호준, 정환희**
 
 #### **1. 프로젝트 개요 (Objective)**
-기존의 재무 데이터 기반 기업 평가 모델은 분기별 데이터의 '후행성'으로 인해 급격한 시장 변화에 대응하기 어렵습니다. 본 프로젝트는 주가, 거래량 등 **시장 지표(Market Data)**를 활용하여 기업의 건전성을 실시간에 가깝게 스크리닝하고, 상장폐지의 핵심 선행 지표인 **'부적정 감사의견'**을 조기에 예측하는 모델을 구축하였습니다.
+기존의 재무 데이터 기반 기업 평가 모델은 분기별 데이터의 '후행성'으로 인해 급격한 시장 변화에 대응하기 어렵습니다. 본 프로젝트는 주가, 거래량 등 시장 지표(Market Data)를 활용하여 기업의 건전성을 실시간에 가깝게 스크리닝하고, 상장폐지의 핵심 선행 지표인 **부적정 감사의견**을 조기에 예측하는 모델을 구축하였습니다.
 
 #### **2. 주요 수행 내용 (Methodology)**
 *   **데이터 수집**: Yahoo Finance(주가 정보) 및 Open DART API(재무제표)를 활용하여 2019~2025년(7개년) 총 3,094개 종목의 데이터 확보.
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/fa1d2819-4b01-49b0-844a-14ec7661878d" />
+
+**<데이터 수집 방법>**
+
+  
 *   **파생변수 가공**: 수익률, 변동성, 추세 모멘텀, 거래량 리스크 등 실시간성을 반영한 다양한 파생변수 생성.
-*   **불균형 데이터 해소 (Recall Boosting)**:
+  
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/708f5f8a-240c-4b1c-92a8-3c0d752e281b" />
+
+**<파생변수 가공>**
+
+*   **모델링 : 불균형 데이터 해소 (Recall Boosting)**:
     *   극소수인 '상장폐지/부적정 의견' 데이터를 탐지하기 위해 **오버샘플링** 및 **확률 기반 커스텀 가중치** 적용.
     *   위험 신호를 놓치지 않기 위해 정확도(Accuracy)보다 **재현율(Recall)** 성능을 극대화하는 전략 채택.
-*   **모델링**: RandomForest, ExtraTrees, XGBoost, LightGBM 등 앙상블 모델 비교 분석 및 Optuna를 통한 하이퍼파라미터 튜닝.
+
+</br>
+
+<img width="801" height="300" alt="image" src="https://github.com/user-attachments/assets/c33c842b-e2b9-44f0-b3e3-7efc0fa7e5e5" />
+
+</br>
+
+**<모델 개요 설명>**
+
+</br>
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/d108dc03-b7f8-4e31-9d0a-70a92b31a5db" />
+
+</br>
+
+**<모델 성능 평가>**
+
+*   **모델링**: RandomForest, ExtraTrees, XGBoost, LightGBM 등 앙상블 모델 비교 분석 및 Optimization을 통한 하이퍼파라미터 튜닝.
 
 #### **3. 핵심 성과 (Results & Impact)**
 *   **감사의견 예측 성능**: '부적정 혹은 의견거절' 클래스에 대해 **Recall 0.87** 달성 (실제 부적정 기업 23건 중 20건 탐지).
 *   **조기 경보 가능성 확인**: 감사의견은 상장폐지 발생 최소 2분기 전부터 나타나는 강력한 선행 신호임을 입증.
-*   **리스크 스코어링**: 자본비율, 유동부채비율 등 핵심 지표의 SHAP Value 분석을 통해 기업별 위험 점수를 산출하고 시각화(Risk Heatmap).
 
 #### **4. 시사점 (Conclusion)**
 > 단순한 재무 지표를 넘어 시장의 움직임을 반영한 **선행적 대응 체계**를 구축함으로써, 기업 모니터링 및 투자 리스크 관리 도구로서의 실무 활용 가능성을 확인하였습니다.
