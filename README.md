@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 8주간의 금융 데이터 사이언티스트 여정 (Curriculum)
+##  8주간의 금융 데이터 사이언티스트 여정 (Curriculum)
 
 ### **Phase 1: SQL (1, 2주차) : 1/2 ~ 1/11**
 *   **1주차: 금융 데이터의 이해와 SQL**
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 *   **Language:** Python
 *   **Library:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 *   **Database:** SQL (MariaDB/MySQL)
@@ -47,14 +47,14 @@
 
 ---
 
-## 💡 Key Learnings
+##  Key Learnings
 *   금융 도메인 지식(상품, 시스템, 리스크)을 데이터 분석과 결합하는 **도메인 특화 분석 역량** 확보.
 *   단순 모델링을 넘어 **신용 평가(Credit Scoring) 및 리스크 관리** 관점의 데이터 활용법 체득.
 *   최신 트렌드인 **LLM 기반 에이전트 기술**을 금융 서비스에 접목해보는 기술적 시야 확장.
 
 ---
 
-## 🏆 종합 프로젝트 결과 (Final Project)
+## 종합 프로젝트 결과 (Final Project)
 
 ### **[프로젝트명] 시장 데이터를 통한 상장폐지 예측**
 > **B.D.A.I 9주 부트캠프 심화반 FINDA 5팀**
@@ -107,10 +107,10 @@
 
 ---
 
-## 🚀 5. 추가 개선사항 및 향후 계획 (Future Improvements)
+## 5. 추가 개선사항 및 향후 계획 (Future Improvements)
 
 ### **실시간 상장폐지 위험도 스크리닝 대시보드 구축**
-학습된 모델을 실무에서 즉시 활용할 수 있도록 **Streamlit 기반의 웹 프로토타입**을 개발할 계획입니다.
+학습된 모델을 실무에서 즉시 활용할 수 있도록 **Streamlit 기반의 웹 프로토타입**을 개발할 계획.
 
 *   **Step 1: 실시간 데이터 파이프라인 (Data Pipeline)**
     *   `yfinance` 및 `OpenDartReader` API를 연동하여 종목 코드 입력 시 최신 주가·재무 데이터를 즉시 로드하는 환경을 구축합니다.
